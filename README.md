@@ -1,2 +1,0 @@
-# shell-scripts
-simple scripts 
